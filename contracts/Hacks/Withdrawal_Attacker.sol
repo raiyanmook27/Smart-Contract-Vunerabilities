@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.7;
 
-import "./VictimFundRaiser.sol";
+import "./Withdrawal_VictimFundRaiser.sol";
 
 contract Attacker {
     //victim address
